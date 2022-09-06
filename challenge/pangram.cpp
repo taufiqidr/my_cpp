@@ -3,7 +3,6 @@
 #include <vector>
 #include <algorithm>
 #include <numeric>
-#include <regex>
 
 using namespace std;
 
